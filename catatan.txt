@@ -1,0 +1,7 @@
+npm init -y
+install nodemon
+install express
+instal dotenv
+install cors
+install openai
+npm install mysql
